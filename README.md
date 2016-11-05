@@ -5,11 +5,16 @@ Météo via une localisation donnée (ville, code postal) avec CoreLocation (APP
 - SWIFT 3 XCODE 8
 - Sans BDD ( 1er version )
 - Arborescence du projet en MVC
-- Git clone et lancer le projet afin de voir le résultat
 
 - COCOAPODS :
   - Utilisation de ForecastIO pour la meteo
     - api qui permet de récuperer toute les informations météorologique à une localisation donnée.
+
+
+- FAIRE FONCTIONNER:
+  - Creer un compte sur FORECASTIO afin de pouvoir avoir la SECRET KEY pour faire des appelle à leur API
+  - Ajouter la SECRET KEY dans APIWeather.swift
+  - Run le projet
 
 - PROCHAINE VERSION:
   - Ajout d'une BDD
