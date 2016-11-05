@@ -9,4 +9,10 @@
 
 PODS push dans la racin du projet, à ne pas faire.
 
+
+![Alt text](https://github.com/mrachid/meteo-swift/blob/master/Capture%20d%E2%80%99e%CC%81cran%202016-11-05%20a%CC%80%2011.21.31.png "Optional Title")
+
+
+![Alt text](https://github.com/mrachid/meteo-swift/blob/master/Capture%20d%E2%80%99e%CC%81cran%202016-11-05%20a%CC%80%2011.15.18.png "Optional Title")
+
 ![Alt text](https://github.com/mrachid/meteo-swift/blob/master/Capture%20d%E2%80%99e%CC%81cran%202016-11-05%20a%CC%80%2011.15.00.png?raw=true "Optional Title")
