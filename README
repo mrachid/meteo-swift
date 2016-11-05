@@ -1,0 +1,8 @@
+- Meteo SWIFT 3 XCODE 8
+- Sans BDD
+- Arborescence du projet en MVC
+- Git clone et lancer le projet afin de voir le résultat
+
+- COCOAPODS :
+- Utilisation de ForecastIO pour la meteo
+    - api qui permet de récuperer toute les informations météorologique à une localisation donnée.
