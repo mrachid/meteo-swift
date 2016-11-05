@@ -6,3 +6,5 @@
 - COCOAPODS :
 - Utilisation de ForecastIO pour la meteo
     - api qui permet de récuperer toute les informations météorologique à une localisation donnée.
+
+PODS push dans la racin du projet, à ne pas faire.
