@@ -12,7 +12,8 @@ import ForecastIO
 class APIWeather{
     
     
-    private var client = DarkSkyClient(apiKey: "b1879056a766d7c1793dce9525b9af5a")
+    //API SECRET KEY FORECASTIO ~ CREER UN COMPTE SUR FORECASTIO AFIN DE POUVOIR REQUEST LES DONNEES METEO
+    private var client = DarkSkyClient(apiKey: "")
     var weatherHistory : [Weather] = []
     
     private struct imageNameSource {
